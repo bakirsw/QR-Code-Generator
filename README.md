@@ -1,4 +1,4 @@
-QRCode-Generator
+QRCode-Generator \n
 Members: Allaa El-Khodr, Bker Sawalha, Mayiz Zgheib, Lucas Kneffel Otal
 
 This a port of the QR-Code-generator (Copyright (c) Project Nayuki) by our team.
