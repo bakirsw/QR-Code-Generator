@@ -1,9 +1,7 @@
-# Group5
-
 QRCode-Generator
 Members: Allaa El-Khodr, Bker Sawalha, Mayiz Zgheib, Lucas Kneffel Otal
 
-This a port of the QR-Code-generator (Copyright (c) Project Nayuki) by Group 5.
+This a port of the QR-Code-generator (Copyright (c) Project Nayuki) by our team.
 UART input added and minor changes were done to the source code by Project Nayuki.
 
 <<<<<<< HEAD
